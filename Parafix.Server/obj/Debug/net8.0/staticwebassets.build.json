@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "6PXGHZuAyT3QTptEuZm9cNU0/mozU9kTxIhJ+LD/a98=",
+  "Source": "Parafix.Server",
+  "BasePath": "_content/Parafix.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\remza\\source\\repos\\Parafix\\parafix.client\\parafix.client.esproj",
+      "Version": 2,
+      "Source": "parafix.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
